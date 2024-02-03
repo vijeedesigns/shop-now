@@ -2,7 +2,7 @@
   "name": "purchase-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "http://shop-now.vijee.in",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
-    "concurrently": "^8.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^9.0.4",
