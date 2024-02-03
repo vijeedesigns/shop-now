@@ -25,7 +25,7 @@ function App() {
     }, [userDetails, jwt]);
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="shop-now">
             <Routes>
                 {authorized ? <>
                     <Route path="/" element={<Layout />}>
